@@ -1,0 +1,105 @@
+#nav{
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.navimg{
+    width: 40px;
+}
+.scndpartall{
+    height: 600px;
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    text-align: center;
+
+}
+.heading{
+    padding-top: 80px;
+    color: aliceblue;
+    font-size: 70px;
+}
+.textgreen{
+    font-size: 65px;
+    color: rgb(78, 211, 78);
+}
+.pragraph{
+    color: aliceblue;
+    margin-bottom: 40px;
+}
+.btn2{
+    padding: 10px 20px;
+    background-color: rgb(58, 219, 58);
+    color: black;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+
+/* thrdpart*/
+
+.thrdparttitle{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.cuponpar1all{
+    background-color: rgb(236, 184, 38);
+    display: flex;
+    width: 500px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.cupontex1part{
+    margin-left: 25px;
+}
+.cuponimg{
+    margin-left: 70px;
+}
+.cupontext2part{
+    margin-left: 25px;
+}
+.cupontext1{
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 16px;
+}
+.cupontext2{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.cupontext4{
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: 800;
+}
+.cuponpar2all{
+    background-color: rgb(218, 107, 190);
+    display: flex;
+    width: 500px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.cuponpartall{
+    display: flex;
+    margin-bottom: 40px;
+    
+}
+.cuponpar2all .cuponimg{
+    margin-left: 30px;
+}
+.thrdpartbtn{
+    padding: 14px 20px ;
+    border: 1px solid rgb(113, 245, 113);
+    border-radius: 10px;
+    color: rgb(113, 245, 113) ;
+    margin-left: 600px;
+    font-weight: 800;
+    font-size: medium;
+
+}
